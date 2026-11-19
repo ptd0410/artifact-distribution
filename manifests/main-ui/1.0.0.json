@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "kind": "web-bundle",
+  "artifact_id": "main-ui",
+  "version": "1.0.0",
+  "payload": {
+    "url": "https://github.com/ptd0410/artifact-distribution/releases/download/main-ui-v1.0.0/main-ui.zip",
+    "sha256": "REPLACE_WITH_REAL_SHA256",
+    "size_bytes": 0
+  }
+}
