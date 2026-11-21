@@ -1,5 +1,13 @@
+
 {
   "schema_version": 1,
   "channel": "stable",
-  "artifacts": []
+  "artifacts": [
+    {
+      "kind": "web-bundle",
+      "artifact_id": "money",
+      "version": "1.0.0",
+      "manifest": "manifests/money/1.0.0.json"
+    }
+  ]
 }
