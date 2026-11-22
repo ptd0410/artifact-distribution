@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "kind": "web-bundle",
+  "artifact_id": "money",
+  "version": "1.0.1",
+  "payload": {
+    "url": "https://pub-1221e04b75d449849c8924e033d90c1c.r2.dev/money/money-1.0.1.zip",
+    "sha256": "fd2b12bb6d62dd9bbc7d2f4a2d5e50d5a159da5a3fe75bfc068aeff7dfb1fdf4",
+    "size_bytes": 248016
+  }
+}
