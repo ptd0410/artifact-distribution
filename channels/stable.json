@@ -6,8 +6,8 @@
     {
       "kind": "web-bundle",
       "artifact_id": "money",
-      "version": "1.0.1",
-      "manifest": "manifests/money/1.0.1.json"
+      "version": "1.0.2",
+      "manifest": "manifests/money/1.0.2.json"
     }
   ]
 }
