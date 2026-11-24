@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "kind": "web-bundle",
+  "artifact_id": "money",
+  "version": "1.0.2",
+  "payload":  {
+    "url": "https://pub-1221e04b75d449849c8924e033d90c1c.r2.dev/pocket-log/pocket-log-1.0.2.zip",
+    "sha256": "7f59cfe1d33d3b9f47078a3d17c3880dac32c5198afb4bf763b92ac1a86eb329",
+    "size_bytes": 341091
+  }
+}

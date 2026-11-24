@@ -5,9 +5,9 @@
   "artifacts": [
     {
       "kind": "web-bundle",
-      "artifact_id": "money",
+      "artifact_id": "pocket-log",
       "version": "1.0.2",
-      "manifest": "manifests/money/1.0.2.json"
+      "manifest": "manifests/pocket-log/1.0.2.json"
     }
   ]
 }
